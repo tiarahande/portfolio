@@ -1,16 +1,16 @@
 [
     {
-        "university": "Politeknik Negeri Semarang",
+        "institution": "Politeknik Negeri Semarang",
         "logo": "images/polines-logo.png",
         "major": "Bachelor of Applied Science (B.A.Sc.) in Electronic Engineering Technology",
         "year": "2022 - 2026",
         "description": "GPA 3.50 of 4.0; Member of the Electrical Engineering Student Association for the 2023–2024 term."
     },
     {
-        "school": "SMK Negeri 7 Semarang (STM Pembangunan)",
+        "institution": "SMK Negeri 7 Semarang (STM Pembangunan)",
         "logo": "images/logo-smkn-7-semarang.png",
         "major": "Vocational High School in Industrial Electronics Engineering",
         "year": "2017 - 2021",
         "description": "Completed an internship at PT Medion Farma Jaya in 2020, assigned to the Quality Control (QC) division. Responsibilities focused on the calibration and testing of electronic measuring instruments used in production. Assisted with equipment maintenance, performed routine accuracy checks, and ensured that devices complied with internal standards and operational procedures."
-    }
+  }
 ]
