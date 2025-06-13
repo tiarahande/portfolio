@@ -1,16 +1,16 @@
 [
     {
-        "university": "National Taiwan University of Science and Technology",
-		"logo": "images/ntust-logo.png",
-        "major": "Master of Science in Electronic and Computer Engineering",
-        "year": "2016 - 2018",
-        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science (B.A.Sc.) in Electronic Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "GPA 3.50 of 4.0; Member of the Electrical Engineering Student Association for the 2023–2024 term."
     },
     {
-        "university": "Universitas Diponegoro",
-		"logo": "images/undip-logo.png",
-        "major": "Bachelor of Engineering in Electrical Engineering",
-        "year": "2011 - 2015",
-        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+        "school": "SMK Negeri 7 Semarang (STM Pembangunan)",
+        "logo": "images/logo-smkn-7-semarang.png",
+        "major": "Vocational High School in Industrial Electronics Engineering",
+        "year": "2017 - 2021",
+        "description": "Completed an internship at PT Medion Farma Jaya in 2020, assigned to the Quality Control (QC) division. Responsibilities focused on the calibration and testing of electronic measuring instruments used in production. Assisted with equipment maintenance, performed routine accuracy checks, and ensured that devices complied with internal standards and operational procedures."
     }
 ]
