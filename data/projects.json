@@ -1,13 +1,12 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
-        "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "title": "Smart Watering System",
+        "year": "2024",
+        "partner": "Academic Project",
+        "role": "Project Leader",
+        "description": "Led the development of an automatic plant watering system using moisture sensors and IoT integration to optimize irrigation based on soil condition.",
+        "image": "images/Penyiramotomatis.png",
+        "link": "https://www.youtube.com/watch?v=cg0jjQyep0E"
     },
     {
         "title": "SoC-based System for Non Contact Vital Signs Measurement",
