@@ -1,28 +1,28 @@
 [
-    {
-        "title": "Smart Watering System",
-        "year": "2024",
-        "partner": "Academic Project",
-        "role": "Project Leader",
-        "description": "Led the development of an automatic plant watering system using moisture sensors and IoT integration to optimize irrigation based on soil condition.",
-        "image": "images/Penyiramotomatis.png",
-        "link": "https://www.youtube.com/watch?v=cg0jjQyep0E"
-    },
-    {
-        "title": "Linefollower Robot",
-        "year": "2024",
-        "partner": "Academic Project",
-        "role": "Programer",
-        "description": "Designed and built an autonomous line follower robot using infrared sensors and PWM motor control. The system was able to detect and follow black tracks on white surfaces with real-time correction logic for turns and intersections.",
-        "image": "linefollower.png",
-        "link": "https://youtu.be/cg0jjQyep0E?feature=shared"
-    },
-	{
-        "title": "Contactless Attendance System with Body Temperature Monitoring",
-        "year": "2025",
-        "partner": "Academic Project.",
-        "role": "System Integrator & Research Analyst",
-        "description": "Built an attendance system with face detection and temperature monitoring using Raspberry Pi and GY-906.",
-        "image": "absenjpg.jpg"
-	}
+  {
+    "title": "Smart Watering System",
+    "year": "2024",
+    "partner": "Academic Project",
+    "role": "Project Leader",
+    "description": "Led the development of an automatic plant watering system using moisture sensors and IoT integration to optimize irrigation based on soil condition.",
+    "image": "images/Penyiramotomatis.png",
+    "link": "https://www.youtube.com/watch?v=cg0jjQyep0E"
+  },
+  {
+    "title": "Linefollower Robot",
+    "year": "2024",
+    "partner": "Academic Project",
+    "role": "Programmer",
+    "description": "Designed and built an autonomous line follower robot using infrared sensors and PWM motor control. The system was able to detect and follow black tracks on white surfaces with real-time correction logic for turns and intersections.",
+    "image": "images/linefollower.png",
+    "link": "https://youtu.be/cg0jjQyep0E?feature=shared"
+  },
+  {
+    "title": "Contactless Attendance System with Body Temperature Monitoring",
+    "year": "2025",
+    "partner": "Academic Project",
+    "role": "System Integrator & Research Analyst",
+    "description": "Built an attendance system with face detection and temperature monitoring using Raspberry Pi and GY-906.",
+    "image": "images/absenjpg.jpg"
+  }
 ]
